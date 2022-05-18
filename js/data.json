@@ -1,0 +1,10 @@
+[
+    {"herramienta": "Packer M3", "categoria": "Ensayo", "costo": 1350},
+    {"herramienta": "Tapon 401", "categoria": "Ensayo", "costo": 1750},
+    {"herramienta": "Straddle Packer", "categoria": "Ensayo", "costo": 1950},
+    {"herramienta": "Junk Master", "categoria": "Rotación", "costo": 2350},
+    {"herramienta": "Fresa", "categoria": "Rotación", "costo": 350},
+    {"herramienta": "Super Fishing Jar", "categoria": "Fishing", "costo": 4550},
+    {"herramienta": "Overshot", "categoria": "Fishing", "costo": 3650},
+    {"herramienta": "Rectificador", "categoria": "Rotación", "costo": 1650}
+]
